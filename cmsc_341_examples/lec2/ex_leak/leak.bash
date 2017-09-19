@@ -1,2 +1,2 @@
 g++ -o leak test_leak.cpp
-valgrind --leak-check=yes leak 
+valgrind --leak-check=yes ./leak 
