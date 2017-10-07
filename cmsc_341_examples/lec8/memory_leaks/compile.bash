@@ -1,7 +1,7 @@
-g++ -o ex1 examples1.cpp 
+g++ -o ex1 example.cpp 
 
-g++ -o ex2 examples2.cpp
+g++ -o ex2 example2.cpp
 
-g++ -o ex3 examples3.cpp 
+g++ -o ex3 example3.cpp 
 
 
